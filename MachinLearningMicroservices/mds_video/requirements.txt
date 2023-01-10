@@ -1,0 +1,5 @@
+pandas
+pywebhdfs
+redis
+rq
+kafka-python

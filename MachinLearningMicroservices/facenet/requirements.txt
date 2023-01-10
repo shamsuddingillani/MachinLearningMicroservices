@@ -1,0 +1,4 @@
+pymilvus==2.0.0rc9
+deepface==0.0.73
+flask
+gunicorn
